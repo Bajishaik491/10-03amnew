@@ -3,7 +3,7 @@ Intro, Workflow (add, commit, restore, logs)
 yum install git -y : Command to install git
 git init : to install empty .git repo
 
-git status : To check the status of a file
+git status : To check the status of a filee
 Red : Untracked
  Green : Tracked
 
