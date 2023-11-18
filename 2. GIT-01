@@ -4,9 +4,8 @@ yum install git -y : Command to install git
 git init : to install empty .git repo
 
 git status : To check the status of a file
-
 Red : Untracked
-Green : Tracked
+ Green : Tracked
 
 git add java1 : to track the file
 git commit -m "commit-1" java1 : to commit the file
